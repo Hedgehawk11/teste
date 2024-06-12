@@ -1,6 +1,6 @@
 {
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
+  "name": "Teste",
+  "description": "Says stuff",
   "version": "2.0",
   "manifest_version": 3,
   "action": {
