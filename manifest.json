@@ -1,10 +1,10 @@
 {
-  "name": "Teste",
+  "name": "The Hello Dave Saying Extension",
   "description": "Says stuff",
   "version": "2.0",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
-    "default_icon": "highness.png"
+    "default_icon": "hal9000.png"
   }
 }
