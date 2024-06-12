@@ -1,18 +1,15 @@
 <html>
   <body>
+
+  <audio id="myAudio" src="camera-shutter-199580.mp3">Click Me</audio>
+  <button onclick="playSound()">Play Sound</button>
+
   <script>
-  x=0;
+    function playSound() {
+      const audio = document.getElementById('myAudio');
+      audio.play();
+      }
   </script>
-  
-  
-  <button type="button" onclick='document.getElementById("my_p").innerText=++x;'>Item 1</button>
-  
-  
-  <br/>
-  <br/>
-  
-  
-  <p id="my_p">0</p>
 
 
   </body>
