@@ -1,7 +1,7 @@
 {
-  "name": "The Hello Dave Saying Extension",
+  "name": "Dementia",
   "description": "Says stuff",
-  "version": "3.0",
+  "version": "4.0",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
